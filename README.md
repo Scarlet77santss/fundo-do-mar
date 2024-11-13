@@ -15,8 +15,8 @@
 
     <section class="chamada">
         <div class="chamada-texto">
-            <h1>ATRAVÉS DO ARANHAVERSO</h1>
-            <p>#homem-aranha</p>
+            <h1>O FUNDO DO MAR E SEUS MISTÉRIOS</h1>
+            <p>#fundo do mar</p>
         </div>
 
         <div>
@@ -28,22 +28,13 @@
     </section>
 
     <section class="categoria">
-        <h2>Filmes e séries</h2>
+        <h2>O mar</h2>
         <div class="categoria-videos">
-            <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-                <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
+           
+         <img src="https://img.youtube.com/vi/Ipkw_hWW-Hw/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
-                <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
-            </a>
-            <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
-                <img src="https://img.youtube.com/vi/FvRmEapoHRc/maxresdefault.jpg" />
-            </a>
-            <a href="https://www.youtube.com/watch?v=Ipkw_hWW-Hw">
-                <img src="https://img.youtube.com/vi/Ipkw_hWW-Hw/maxresdefault.jpg" />
-            </a>
-            <a href="https://www.youtube.com/watch?v=d4DzMNGoyis">
-                <img src="https://img.youtube.com/vi/d4DzMNGoyis/maxresdefault.jpg" />
+            <a href="https://youtu.be/ydEAhp-BoZg?si=paPkxLpRS-YWi0UU">
+                <img src="https://youtu.be/o0LjwAohJO8?si=Rv9Qvo1hn4_eZ_sj" />
             </a>
         </div>
     </section>
@@ -54,10 +45,6 @@
 
 # fundo-do-mar
 Aqui você vai descobrir um pouco dos mistérios do fundo do mar:
-
-https://youtu.be/ydEAhp-BoZg?si=paPkxLpRS-YWi0UU
-
-https://youtu.be/8Cq7ROrnDog?si=ol8OvpsgrR82C32T
 
 
 ZONAS DO FUNDO DO MAR:
